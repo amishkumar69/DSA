@@ -1,0 +1,17 @@
+int result = 0;
+		int count = 1;
+		int num = 1;
+		
+		while(count <= 10) {
+			if(num % 2 ==0) {
+				System.out.println(count + "  " + num);
+				result += num;
+				count++;
+			}
+			
+			num++;
+		
+			
+		
+		}
+		System.out.println( "Sterting 10 even no"
