@@ -14,4 +14,4 @@ int result = 0;
 			
 		
 		}
-		System.out.println( "Sterting 10 even no"
+		System.out.println( "Sterting 10 even no");s
